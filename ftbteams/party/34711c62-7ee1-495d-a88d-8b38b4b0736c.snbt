@@ -1,0 +1,29 @@
+{
+	id: "34711c62-7ee1-495d-a88d-8b38b4b0736c"
+	type: "party"
+	owner: "8678f632-78fc-3d22-bbcf-c678b58d8e21"
+	ranks: {
+		8678f632-78fc-3d22-bbcf-c678b58d8e21: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "vasco da gama"
+		"ftbteams:description": "o gigante"
+		"ftbteams:color": "#FFFFFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 1b
+		"ftbchunks:allow_mob_griefing": 1b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "public"
+		"ftbchunks:block_interact_mode": "public"
+		"ftbchunks:entity_interact_mode": "public"
+		"ftbchunks:nonliving_entity_attack_mode": "public"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "public"
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1712684881556L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"NikolasAzeredo\"}]}" }]
+	extra: { }
+}
